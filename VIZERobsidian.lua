@@ -27838,7 +27838,7 @@ MenuGroup = Tabs['UI Settings']:AddLeftGroupbox('Interface', 'monitor')
 AppearanceGroup = Tabs['UI Settings']:AddLeftGroupbox('Appearance', 'palette')
 
 MenuGroup:AddLabel('Menu Keybind'):AddKeyPicker('MenuKeybind', {
-    Default = 'backquote',
+    Default = 'Backquote',
     NoUI = true,
 } )
 
